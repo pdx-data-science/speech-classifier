@@ -6,9 +6,12 @@
 - audio cleaning
 - detect non-speech vs speech
 - can keras be useful for audio classification?
-- spectra into random forest?
+- spectra into random forest or other (un)supervised classifier?
 - frequencies vs amplitudes - which is better?
 - envelope fingerprinting or phonemes
+- time autocorrelations or cross-correlations?
+- cluster analysis to identify groups of speakers
+  - identify what makes clusters fail
 
 ## Links
 
